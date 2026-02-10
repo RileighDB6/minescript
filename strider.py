@@ -1,1 +1,1 @@
-import minescript
+import minescript as m
